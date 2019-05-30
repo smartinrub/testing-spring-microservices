@@ -2,11 +2,13 @@ package com.sergiomartinrubio.reviewconsumer;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
-public class Review {
-    private final String id;
-    private final String author;
-    private final String text;
+@NoArgsConstructor
+class Review {
+    private String id;
+    private String name;
+    private String text;
 }
