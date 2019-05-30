@@ -33,7 +33,7 @@ public class ReviewControllerTest {
                 .uri("/reviews")
                 .exchange()
                 .expectStatus().isOk()
-                .expectHeader().contentType(MediaType.APPLICATION_JSON)
+                .expectHeader().contentType(MediaType.APPLICATION_JSON_UTF8)
                 .expectBody().jsonPath("@.[0].name").isEqualTo("Sergio");
     }
 }

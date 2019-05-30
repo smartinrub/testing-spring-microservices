@@ -29,8 +29,41 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review-service/src/test/resources/contracts/shouldReturnAllReviews.groovy">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="35" column="75" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,8 +116,9 @@
         <option value="$PROJECT_DIR$/review-service/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/review-service/pom.xml" />
         <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/BaseClass.java" />
-        <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java" />
         <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/review-service/src/test/resources/contracts/shouldReturnAllReviews.groovy" />
+        <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java" />
       </list>
     </option>
   </component>
@@ -95,7 +129,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
     <option name="width" value="1920" />
     <option name="height" value="1055" />
@@ -129,38 +163,6 @@
               <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
               <item name="review-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reviewservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,36 +198,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="contracts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-              <item name="contracts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-service" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-              <item name="contracts" type="462c0819:PsiDirectoryNode" />
-              <item name="reviewservice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,7 +243,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContractVerifierTest.validate_shouldReturnAllReviews">
+  <component name="RunManager" selected="JUnit.ReviewRepositoryTest">
+    <configuration name="ContractVerifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="review-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sergiomartinrubio.reviewservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sergiomartinrubio.reviewservice" />
+      <option name="MAIN_CLASS_NAME" value="com.sergiomartinrubio.reviewservice.ContractVerifierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContractVerifierTest.validate_shouldReturnAllReviews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="review-service" />
       <extension name="coverage">
@@ -349,10 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReviewRepositoryTest" />
+        <item itemvalue="JUnit.ContractVerifierTest" />
+        <item itemvalue="JUnit.ReviewControllerTest" />
         <item itemvalue="JUnit.ContractVerifierTest.validate_shouldReturnAllReviews" />
         <item itemvalue="JUnit.ReviewWireMockTest" />
-        <item itemvalue="JUnit.ReviewControllerTest" />
-        <item itemvalue="JUnit.ReviewRepositoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -404,10 +392,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13395000" />
+    <option name="totallyTimeSpent" value="14365000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22145145" />
@@ -633,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/test/resources/contracts/shouldReturnAllReviews.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/Review.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -664,26 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -691,10 +652,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java">
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/resources/contracts/shouldReturnAllReviews.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="35" column="75" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
