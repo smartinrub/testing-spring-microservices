@@ -10,6 +10,7 @@
 
     <modules>
         <module>review-service</module>
+        <module>review-consumer</module>
     </modules>
 
 </project>

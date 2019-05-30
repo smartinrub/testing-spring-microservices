@@ -2,7 +2,7 @@ package com.sergiomartinrubio.reviewconsumer;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.junit.Before;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,7 +29,7 @@ public class ReviewWireMockTest {
     @Autowired
     private ReviewClient reviewClient;
 
-    @Before
+    @BeforeEach
     public void setUp() throws JsonProcessingException {
         String json = objectMapper.writeValueAsString(singletonList(new Review("1", "Sergio", "text")));
 

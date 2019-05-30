@@ -18,78 +18,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/Review.java">
+        <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/Review.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review-consumer/src/test/java/com/sergiomartinrubio/reviewconsumer/ReviewWireMockTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/review-service/src/main/resources/contracts/shouldReturnAllReviews.groovy">
+        <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/ReviewClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/ReviewConsumerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review-service/pom.xml">
+        <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="60">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -103,28 +56,35 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>groovy</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/review-service/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewRepository.java" />
         <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewsControllerTest.java" />
         <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewsRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java" />
         <option value="$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewController.java" />
         <option value="$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ProducerConfiguration.java" />
         <option value="$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ProducerRestConfiguration.java" />
-        <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java" />
         <option value="$PROJECT_DIR$/review-consumer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/Review.java" />
         <option value="$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/ReviewService.java" />
         <option value="$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/ReviewClient.java" />
         <option value="$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/ReviewConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/review-consumer/src/test/java/com/sergiomartinrubio/reviewconsumer/ReviewWireMockTest.java" />
-        <option value="$PROJECT_DIR$/review-service/pom.xml" />
         <option value="$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/Review.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/review-service/src/main/resources/contracts/shouldReturnAllReviews.groovy" />
+        <option value="$PROJECT_DIR$/review-service/src/test/resources/shouldReturnAllReviews.groovy" />
+        <option value="$PROJECT_DIR$/review-consumer/src/test/java/com/sergiomartinrubio/reviewconsumer/ReviewWireMockTest.java" />
+        <option value="$PROJECT_DIR$/review-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/review-service/pom.xml" />
+        <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/BaseClass.java" />
+        <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java" />
+        <option value="$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java" />
       </list>
     </option>
   </component>
@@ -140,6 +100,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -151,73 +112,6 @@
             <path>
               <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reviewconsumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="review-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reviewconsumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
@@ -267,9 +161,71 @@
               <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
               <item name="review-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reviewservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-spring-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="review-service" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+              <item name="reviewservice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,12 +244,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/review-service/src/test/resources/contracts" />
+      <recent name="$PROJECT_DIR$/review-service/src/test/resources" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.sergiomartinrubio.reviewconsumer" />
       <recent name="com.sergiomartinrubio.reviewservice" />
@@ -311,7 +271,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReviewWireMockTest">
+  <component name="RunManager" selected="JUnit.ContractVerifierTest.validate_shouldReturnAllReviews">
+    <configuration name="ContractVerifierTest.validate_shouldReturnAllReviews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="review-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sergiomartinrubio.reviewservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sergiomartinrubio.reviewservice" />
+      <option name="MAIN_CLASS_NAME" value="com.sergiomartinrubio.reviewservice.ContractVerifierTest" />
+      <option name="METHOD_NAME" value="validate_shouldReturnAllReviews" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReviewControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="review-service" />
       <extension name="coverage">
@@ -373,6 +349,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ContractVerifierTest.validate_shouldReturnAllReviews" />
         <item itemvalue="JUnit.ReviewWireMockTest" />
         <item itemvalue="JUnit.ReviewControllerTest" />
         <item itemvalue="JUnit.ReviewRepositoryTest" />
@@ -395,21 +372,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReviewWireMockTest - 2019.05.30 at 00h 27m 46s.xml">
-      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReviewWireMockTest - 2019.05.30 at 00h 28m 31s.xml">
-      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReviewWireMockTest - 2019.05.30 at 00h 31m 26s.xml">
-      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReviewWireMockTest - 2019.05.30 at 00h 32m 56s.xml">
-      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReviewWireMockTest - 2019.05.30 at 00h 33m 55s.xml">
-      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReviewWireMockTest - 2019.05.30 at 00h 34m 44s.xml">
       <configuration name="ReviewWireMockTest" configurationId="JUnit" />
     </history-entry>
@@ -425,15 +387,30 @@
     <history-entry file="ReviewWireMockTest - 2019.05.30 at 00h 38m 37s.xml">
       <configuration name="ReviewWireMockTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReviewWireMockTest - 2019.05.30 at 20h 56m 59s.xml">
+      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewWireMockTest - 2019.05.30 at 20h 57m 26s.xml">
+      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewWireMockTest - 2019.05.30 at 21h 35m 05s.xml">
+      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewWireMockTest - 2019.05.30 at 21h 50m 39s.xml">
+      <configuration name="ReviewWireMockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContractVerifierTest_validate_shouldReturnAllReviews - 2019.05.30 at 21h 54m 05s.xml">
+      <configuration name="ContractVerifierTest.validate_shouldReturnAllReviews" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8797000" />
+    <option name="totallyTimeSpent" value="13395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22145145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,13 +419,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6023707" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4676724" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3297414" />
@@ -473,19 +450,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.M3/spring-boot-test-autoconfigure-2.2.0.M3.jar!/org/springframework/boot/test/autoconfigure/data/mongo/DataMongoTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -500,13 +464,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -538,16 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/review-consumer/src/test/java/com/sergiomartinrubio/reviewconsumer/ReviewConsumerApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/review-consumer/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -558,40 +505,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/review-consumer/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ProducerRestConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jrt:///usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -610,15 +523,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/Review.java">
+    <entry file="file://$PROJECT_DIR$/testing-spring-microservices.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/review-service.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="121" column="9" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/ReviewClient.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -629,7 +558,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/review-consumer/src/main/java/com/sergiomartinrubio/reviewconsumer/ReviewConsumerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="120">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -639,27 +568,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/pom.xml">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-contract-stub-runner/2.1.1.RELEASE/spring-cloud-starter-contract-stub-runner-2.1.1.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-contract-verifier/2.1.1.RELEASE/spring-cloud-starter-contract-verifier-2.1.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/review-consumer/src/test/java/com/sergiomartinrubio/reviewconsumer/ReviewWireMockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/target/test-classes/shouldReturnAllReviews.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/target/test-classes/com/sergiomartinrubio/reviewservice/ReviewControllerTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="92" column="38" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ProducerRestConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review-service/src/main/resources/contracts/shouldReturnAllReviews.groovy">
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/resources/contracts/shouldReturnAllReviews.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/target/generated-test-sources/contracts/com/sergiomartinrubio/reviewservice/ContractVerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/main/java/com/sergiomartinrubio/reviewservice/ReviewServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review-service/src/test/java/com/sergiomartinrubio/reviewservice/ReviewRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -715,11 +753,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>review-consumer</last-edited>
+          <last-edited>review-service</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
