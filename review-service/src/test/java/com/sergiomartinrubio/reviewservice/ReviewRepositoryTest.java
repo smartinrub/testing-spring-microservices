@@ -17,10 +17,10 @@ public class ReviewRepositoryTest {
     @Test
     public void repositoryShouldSaveAndReturnSameReview() {
         StepVerifier.create(
-                reviewRepository.save(new Review("1", "Sergio", "text"))
+                reviewRepository.save(new Review("1", "Sergio", "content"))
                         .thenMany(reviewRepository.findAll())
         )
-                .expectNextMatches(review -> review.getName().equals("Sergio"))
+                .expectNextMatches(review -> review.getAuthor().equals("Sergio"))
                 .verifyComplete();
     }
 }

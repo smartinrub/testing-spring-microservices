@@ -21,7 +21,7 @@ public class ReviewWireMockTest {
     @Test
     public void clientShouldReturnReview() {
         StepVerifier.create(reviewClient.getAllReviews())
-                .expectNextMatches(review -> review.getName().equals("Sergio") && review.getText().equals("text"))
+                .expectNextMatches(review -> review.getAuthor().equals("Sergio") && review.getMessage().equals("content"))
                 .verifyComplete();
     }
 }

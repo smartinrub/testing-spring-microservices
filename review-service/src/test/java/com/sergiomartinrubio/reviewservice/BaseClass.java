@@ -29,7 +29,7 @@ public class BaseClass {
         RestAssured.baseURI = "http://localhost:" + this.port;
 
         when(reviewRepository.findAll())
-                .thenReturn(Flux.just(new Review("1", "Sergio", "text")));
+                .thenReturn(Flux.just(new Review("1", "Sergio", "content")));
 
     }
 }

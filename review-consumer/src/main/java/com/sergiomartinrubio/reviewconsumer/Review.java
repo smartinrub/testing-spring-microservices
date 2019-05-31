@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 class Review {
     private String id;
-    private String name;
-    private String text;
+    private String author;
+    private String message;
 }

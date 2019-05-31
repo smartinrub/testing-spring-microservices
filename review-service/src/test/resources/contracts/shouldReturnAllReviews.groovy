@@ -20,7 +20,7 @@ Contract.make {
 
         body("""
             [
-                {"id":"1", "name":"Sergio", "text":"text"}
+                {"id":"1", "author":"Sergio", "message":"content"}
             ]
         """)
     }

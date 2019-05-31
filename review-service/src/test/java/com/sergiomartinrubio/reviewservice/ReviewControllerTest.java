@@ -26,7 +26,7 @@ public class ReviewControllerTest {
 
     @Test
     public void getReviewsShouldReturnFluxOfReviews() {
-        when(reviewRepository.findAll()).thenReturn(Flux.just(new Review("1", "Sergio", "text")));
+        when(reviewRepository.findAll()).thenReturn(Flux.just(new Review("1", "Sergio", "content")));
 
         webTestClient
                 .get()
@@ -34,6 +34,6 @@ public class ReviewControllerTest {
                 .exchange()
                 .expectStatus().isOk()
                 .expectHeader().contentType(MediaType.APPLICATION_JSON_UTF8)
-                .expectBody().jsonPath("@.[0].name").isEqualTo("Sergio");
+                .expectBody().jsonPath("@.[0].author").isEqualTo("Sergio");
     }
 }
