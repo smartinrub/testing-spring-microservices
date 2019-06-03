@@ -13,7 +13,7 @@ import reactor.core.publisher.Flux;
 import static org.mockito.Mockito.when;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT, properties = "server.port=0")
-@RunWith(SpringRunner.class) // JUnit 5 is not compatible
+@RunWith(SpringRunner.class)
 @Import(ProducerRestConfiguration.class)
 public class BaseClass {
 
